@@ -4,7 +4,7 @@ variable "pet-count" {
 }
 
 variable "word-length" {
-  description = "length of word"
+  description = "length of word. oh yeah"
   type        = number
   default     = 5
 }
